@@ -6,8 +6,8 @@ const geist = Geist({ variable: "--font-geist", subsets: ["latin"] });
 const geistMono = Geist_Mono({ variable: "--font-mono", subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "ProFuel Control — Sud Contractors",
-  description: "Pilotage intelligent des livraisons et stocks carburant.",
+  title: "SUD Fleet OS — Sud Contractors",
+  description: "Plateforme de gestion de flotte intelligente : GPS, carburant, conducteurs, cuves et ProCam.",
 };
 
 export default function RootLayout({

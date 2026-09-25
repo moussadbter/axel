@@ -1,6 +1,6 @@
-# Sud Contractors — ProFuel Control
+# Sud Contractors — SUD Fleet OS
 
-Mockup interactif d’une plateforme de suivi des livraisons et stocks carburant.
+Mockup de plateforme de **gestion de flotte intelligente** (GPS, carburant, conducteurs, cuves, ProCam), calé sur l’offre Sud Contractors.
 
 ## Démarrage
 
@@ -11,5 +11,13 @@ npm run dev
 
 Ouvrir [http://localhost:3000](http://localhost:3000).
 
-Le prototype comprend un tableau de bord responsive, une livraison simulée en
-temps réel, le niveau des cuves, les alertes et la navigation entre les modules.
+## Modules
+
+- Vue d’ensemble et carte live (Pro Vision)
+- Parc véhicules / engins et missions
+- Scores conducteurs et coaching
+- Carburant Pro Vision+ (anomalies, ralenti, rapprochements)
+- Cuves & pompes (Pro Fuel)
+- Géofences, centre d’alertes, clips ProCam
+- Maintenance prédictive et rapports
+- Rôles gérant / adjoint / superviseur / pompiste et filtre par station
